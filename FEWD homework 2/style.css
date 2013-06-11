@@ -1,0 +1,42 @@
+
+body{
+  background-color: #eee;
+  background-image: url(http://static.simpledesktops.com/uploads/desktops/2013/03/30/Blue-Fish.png);
+  text-align: center;
+}
+
+.container{
+  width: 700px;
+  margin: 50px auto;
+  background-color: #fff;
+  padding: 20px;
+}
+
+a:link{
+  text-decoration:none;
+}
+
+h1{
+	color: red;
+	text-align: center;
+	background-color: yellow;
+	padding: 10px;
+	font-size: 36px;
+	font-family: arial, helvetica, sans-serif;
+}
+
+p{
+	color: red;
+}
+
+ul{
+	border: 2px solid green;
+}
+
+li em, h1{
+	border: 4px dashed orange;
+}
+
+.big{
+	font-size: 30px
+}
